@@ -3,4 +3,4 @@
 因为目前时间有限，暂时只更新甲级的代码，乙级和顶级希望以后可以更新。
 截止目前（2019.2）本仓库内所有代码均可以通过PTA测试系统。
 所有代码均可以直接通过C++编译通过，使用C/C++仅仅区分是否使用STL容器。
-代码外的其他内容更新于CSDN：https://blog.csdn.net/Bourbon_Whiskey_ 其他博客正在学习中。
+代码外的其他内容更新于CSDN：https://blog.csdn.net/Bourbon_Whiskey_ 目前缓慢更新中。
